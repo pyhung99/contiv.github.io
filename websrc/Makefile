@@ -7,14 +7,14 @@ dev: init
 	bundle exec middleman server
 
 clean:
-	rm -rf ../docs
-	rm -rf ../install
-	rm -rf ../assets
-	rm -rf ../articles
-	rm ../404.html || true
-	rm ../index.html || true
-	rm ../robots.txt || true
-	rm ../sitemap.xml || true
+	# rm -rf ../docs
+	# rm -rf ../install
+	# rm -rf ../assets
+	# rm -rf ../articles
+	# rm ../404.html || true
+	# rm ../index.html || true
+	# rm ../robots.txt || true
+	# rm ../sitemap.xml || true
 
 deploy:
 	mv ./build/docs ../

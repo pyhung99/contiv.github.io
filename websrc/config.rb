@@ -1,4 +1,5 @@
 set :base_url, "http://contiv.io/"
+activate :livereload, livereload_css_target: 'stylesheets/application-799c3eac.css'
 
 activate :hashicorp do |h|
   h.name        = "contiv"
