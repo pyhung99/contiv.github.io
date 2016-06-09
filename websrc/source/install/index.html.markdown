@@ -7,12 +7,10 @@ description: |-
 ---
 
 # Getting Started
-<<<<<<< HEAD
 Welcome to the Getting Started Guide.
 =======
 
 ## Contiv Network
->>>>>>> a6e5c4e30ab274161f88d64328e31c90481901ce
 There are several ways to try out Contiv Network:
 
 [Install Contiv Network in a Vagrant setup](./netplugin/vagrant.html)
