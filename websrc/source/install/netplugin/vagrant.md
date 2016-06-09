@@ -12,7 +12,11 @@ These instructions describe how to connect two containers
 over a network you create. The network has
 its own unique interfaces and lies behind an OVS bridge.
 
+<<<<<<< HEAD
 ### Prerequisites
+=======
+### Prerequisits
+>>>>>>> a6e5c4e30ab274161f88d64328e31c90481901ce
 - VirtualBox 5.0.2 or greater
 - Vagrant 1.7.4 or higher
 - Git

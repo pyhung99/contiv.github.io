@@ -11,7 +11,11 @@
     .logo{
       color: $medium-black;
       font-family: $font-family-blanc;
+<<<<<<< HEAD
       font-size: 38px;
+=======
+      font-size: 28px;
+>>>>>>> a6e5c4e30ab274161f88d64328e31c90481901ce
       margin-right: 30px;
       background: image-url('contiv-logo.png') 0 0 no-repeat;
       @include img-retina("contiv-logo.png", "contiv-logo.png", $project-logo-width, $project-logo-height);
@@ -64,7 +68,11 @@
     .navbar-brand {
       .logo{
         padding-left: 42px;
+<<<<<<< HEAD
         font-size: 36px;
+=======
+        font-size: 18px;
+>>>>>>> a6e5c4e30ab274161f88d64328e31c90481901ce
         @include img-retina("contiv.png", "contiv.png", $project-logo-width * .75, $project-logo-height * .75);
       }
     }
